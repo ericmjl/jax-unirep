@@ -551,9 +551,9 @@ FUNCTION {article}
     }
     { format.article.crossref output.nonnull
       format.pages output
-      format.doi output  
+      format.doi output
       format.url output
-    }    
+    }
   if$
   new.block
   note output
