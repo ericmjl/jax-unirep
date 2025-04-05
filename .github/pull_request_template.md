@@ -6,8 +6,8 @@ that it addresses:
 ## Checklist
 
 ### General
-1. [ ] I have made the PR off a new branch from my fork 
-   (`<your_username>`:`<feature-branch_name>`), *not* 
+1. [ ] I have made the PR off a new branch from my fork
+   (`<your_username>`:`<feature-branch_name>`), *not*
    `<your_username>`:`master`.
 2. [ ] I have added my changes to the `CHANGELOG.md` file at the top.
 3. [ ] I have made any necessary changes to the documentation in the `README`.
